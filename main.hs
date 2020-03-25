@@ -1,3 +1,9 @@
+--
+--  @title 3740: Project - Haskell Calculator
+--  @author Riley Weasel Fat, Wesley Waldern
+-- 
+
+
 import Control.Monad
 
 main = do
